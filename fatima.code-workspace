@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../To-do"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fatima",
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
